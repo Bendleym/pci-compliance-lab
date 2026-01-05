@@ -20,3 +20,8 @@ This lab was built to translate PCI DSS requirements into practical workflows su
 - Review log retention and monitoring coverage
 - Track remediation activities in an eGRC or ticketing system
 
+### PCI Scope & Data Flow
+<img width="1243" height="359" alt="resortpay_pci_scope drawio" src="https://github.com/user-attachments/assets/6b185e77-93a2-4cfb-8c2c-ad08b10b7039" />
+
+### PCI Evidence Index
+[pci_evidence_index.xlsx](https://github.com/user-attachments/files/24425578/pci_evidence_index.xlsx)
