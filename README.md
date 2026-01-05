@@ -24,4 +24,5 @@ This lab was built to translate PCI DSS requirements into practical workflows su
 <img width="1243" height="359" alt="resortpay_pci_scope drawio" src="https://github.com/user-attachments/assets/6b185e77-93a2-4cfb-8c2c-ad08b10b7039" />
 
 ### PCI Evidence Index
-[pci_evidence_index.xlsx](https://github.com/user-attachments/files/24425578/pci_evidence_index.xlsx)
+<img width="978" height="187" alt="Screenshot 2026-01-04 204607" src="https://github.com/user-attachments/assets/fd10291b-0569-47e7-b9af-bc167eed9a0f" />
+
